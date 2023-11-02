@@ -1,0 +1,12 @@
+#main-h1{
+    color: red;
+}
+.para1{
+    color: blue;
+}
+h2[draggable="true"]{
+    color: rgb(48, 138, 138);
+}
+h2[draggable="false"]{
+    color: rgb(18, 220, 220);
+}

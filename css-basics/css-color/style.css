@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    background-color: rgba(168, 168, 157, 0.708);
+    font-family: 'Playfair Display', serif;
+    
+}
+html{
+    background-color: burlywood ;
+}
+h2{
+    background-color: rgba(137, 43, 226, 0.466);
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+}
